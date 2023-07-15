@@ -3,7 +3,7 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 # Calculator
-<p align="center"><img src="https://github.com/U7P4L-IN/simple-calculator/blob/main/169086855-bd20e6e0-3675-4db6-b086-0298005973f4.png">
+<p align="center"><img src="put link">
 
 ### SIMPLE CALCULATOR
 
